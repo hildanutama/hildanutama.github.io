@@ -5,7 +5,7 @@ const subheadingsData = {
       content: (
         <>
           <p>
-          Freshly graduated with a Bachelor's degree in Computer Science, my expertise in Business Intelligence, Data Science, and Web development sets me apart, offering a powerful combination of technical proficiency and innovative problem-solving. My academic journey not only equipped me with a robust understanding of business needs and analytical skills but also provided a platform to refine my teamwork, leadership, communication, and initiative-taking abilities. Eager to bring this dynamic skill set to contribute meaningfully to your team and drive success.
+          Recently graduated with a Bachelor's in Computer Science, I specialize in Business Intelligence, Data Science, and Web Development. Equipped with strong analytical skills and business acumen, I bring a blend of technical proficiency and innovative problem-solving. Experienced in teamwork, leadership, and effective communication, I'm eager to contribute to your team's success.
           </p>
         </>
       ),
@@ -17,22 +17,18 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Bachelor of Computer Science at Dinamika University formerly STIKOM Surabaya With 3.84/4.00 GPA.
+          Bachelor of Computer Science at Dinamika University formerly STIKOM Surabaya
           </p>
-        </>
-      ),
-    },
-    {
-      title: "2014 Bachelors Degree",
-      content: (
-        <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          GPA: 3.84/4.00 
+          </p>
+          <p>
+          Majors in: Business Intelligence, Data Mining, Data Science, Big Data Technology, E-Business, Web Developer
           </p>
         </>
       ),
     },
+    
   ],
   3: [
     {
@@ -40,9 +36,10 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            MSIB - Yayasan Sekoah Ekspor
           </p>
+          <p>
+          Designed and optimized a relational database schema for a directory export website, collaborating on its development using the Laravel framework.</p>
         </>
       ),
     },
@@ -51,9 +48,10 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            MBKM - SDS Nurul Huda Gayungan
           </p>
+          <p>
+          Used K-Means clustering in Scikit-Learn to group students by ability and developed a professional profile website for SD Nurul Huda Elementary School with the CodeIgniter framework. </p>
         </>
       ),
     },
@@ -62,9 +60,21 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Workshop Artificial Intelligence
           </p>
+          <p>
+          Supported 50 international DILI university students in SQL Server database management, Excel data processing for analysis, and Tableau dashboard creation to enhance data presentation skills.
+          </p>
+        </>
+      ),
+    },
+    {
+      title: "2023 Volunteer",
+      content: (
+        <>
+          <p>FIFA World Cup U-17 2023 Indonesia </p>
+          <p>
+          Supported transportation operations at venues, including parking and load zone control, managing the transport desk, verifying permits, and designing a one-way traffic flow blueprint within the venue area.</p>
         </>
       ),
     },

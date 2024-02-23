@@ -1,96 +1,64 @@
 const skills = {
   1: [
     {
-      title: "HTML",
+      title: "Pandas",
       level: 6,
     },
     {
-      title: "CSS",
+      title: "Matplotlib",
       level: 5,
     },
     {
-      title: "SASS",
+      title: "Apriori",
       level: 2,
     },
     {
-      title: "JavaScript",
+      title: "Numpy",
       level: 5,
     },
     {
-      title: "TypeScript",
+      title: "Scikit-Learn",
       level: 4,
     },
     {
-      title: "Tailwind CSS",
+      title: "NLTK",
       level: 1,
-    },
-    {
-      title: "React JS",
-      level: 3,
-    },
-    {
-      title: "Figma",
-      level: 4,
     },
   ],
   2: [
     {
-      title: "PostgreSQL",
+      title: "SQL Server",
       level: 5,
     },
     {
-      title: "Node.js",
+      title: "MySQL",
       level: 4,
     },
     {
-      title: "MongoDB",
+      title: "Oracle SQL",
       level: 2,
     },
     {
-      title: "Git",
-      level: 4,
-    },
-    {
-      title: "PHP",
+      title: "PostgreSQL",
       level: 1,
-    },
-    {
-      title: "SQL",
-      level: 3,
-    },
-    {
-      title: "Express.js",
-      level: 3,
     },
   ],
   3: [
     {
-      title: "PostgreSQL",
+      title: "Power BI",
       level: 5,
     },
     {
-      title: "Node.js",
-      level: 4,
-    },
-    {
-      title: "MongoDB",
-      level: 2,
-    },
-    {
-      title: "Git",
-      level: 4,
-    },
-    {
-      title: "PHP",
-      level: 1,
-    },
-    {
-      title: "SQL",
+      title: "Tableau",
       level: 3,
     },
     {
-      title: "Express.js",
+      title: "Microsoft SSRS",
       level: 3,
+    },
+    {
+      title: "Microsoft Excel Pivot Chart",
+      level: 4,
     },
   ],
 };

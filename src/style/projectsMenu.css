@@ -2,7 +2,7 @@
   width: 45rem;
   position: fixed;
   display: flex;
-  top: 25%;
+  top: 20%;
   left: 50%;
   transform: translateX(-50%);
 }
@@ -44,6 +44,9 @@
 .project-item.activeProject:nth-child(3) {
   background: linear-gradient(270deg, #ffffff00, var(--cyan) 70%);
 }
+.project-item.activeProject:nth-child(4) {
+  background: linear-gradient(270deg, #ffffff00, var(--cyan) 70%);
+}
 
 .project-sub-container {
   width: 60%;
@@ -69,7 +72,6 @@
 .link-container a {
   color: white;
   text-decoration: none;
-  margin-top: 1rem;
   width: 50%;
   height: 2.75rem;
   text-align: center;
